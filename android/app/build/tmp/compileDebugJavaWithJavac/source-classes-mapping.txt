@@ -1,0 +1,14 @@
+com/hello_contacts/ReactNativeFlipper.java
+ com.hello_contacts.ReactNativeFlipper
+ com.hello_contacts.ReactNativeFlipper$1
+ com.hello_contacts.ReactNativeFlipper$2
+ com.hello_contacts.ReactNativeFlipper$2$1
+com/hello_contacts/MainActivity.java
+ com.hello_contacts.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/hello_contacts/BuildConfig.java
+ com.hello_contacts.BuildConfig
+com/hello_contacts/MainApplication.java
+ com.hello_contacts.MainApplication
+ com.hello_contacts.MainApplication$1
